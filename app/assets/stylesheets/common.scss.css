@@ -37,8 +37,3 @@ footer {
     position: fixed;
     bottom: 0;
 }
-
-.partial {
-    border: 1px solid red;
-    padding: 15px;
-}
